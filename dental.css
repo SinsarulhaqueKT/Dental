@@ -1,0 +1,448 @@
+*{
+    margin: 0%;
+    border: 0%;
+}
+
+
+.maincontainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.navbar{
+    width: 100%;
+    height: 30vh;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    width: 250px;
+    height: 90px;
+}
+.logo1{
+    width:200px ;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    text-align: center;
+    
+}
+.phone{
+    width: 50px;
+    height: 40px;
+}
+
+.mail{
+    width: 50px;
+    height: 40px;
+}
+.bar2{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(33, 159, 232);
+    align-items: center;
+}
+.home{
+    width: 250px;
+    height:80px ;
+    text-align: center;
+    background-color: rgb(5, 77, 155);
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.aboutus{
+    width: 150px;
+    height:15vh ;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bar3{
+    width: 100%;
+    height: 80vh;
+    margin-top: 1px;
+    background-color: aquamarine;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.aboutbar3{
+    width: 100%;
+    height: 80vh;
+    margin-top: 1px;
+    background-color: rgb(81, 232, 217);
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+
+}
+.abt{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.abouthome{
+    font-size:25px ;
+}
+.specialpackage{
+    width: 40%;
+    height: 80vh;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textsp{
+    color: white;
+    font-size: 50px;
+}
+.treattext{
+    font-size: 45px;
+    color:black;
+    margin-left: 90px;
+}
+.pic1{
+    width: 60%;
+    height:80vh ;
+    background-color: black;
+}
+.pic1about{
+    width: 100%;
+    height: 80vh;
+    background-color: aquamarine;
+}
+/* .perspect{
+
+ width: 60%;
+    height:60vh ;
+} */
+.image{
+    width: 100%;
+    height: 100%;
+}
+.healthmain{
+      width: 100%;
+      height: 95vh;
+      display: flex;
+      /* text-align: center; */
+      justify-content: space-around;
+      /* background-color: brown; */
+}
+.implant{
+    font-size: 25px;
+    color: cyan;
+    margin-top: 20px;
+}
+.heallthtext{
+    text-align: left;
+    border: 1px solid rgb(155, 194, 216);
+    display: flex;
+    align-items: center;
+} 
+.para1{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.best{
+    font-size: 25px;
+    color: bisque;
+    margin-top: 15px;
+}
+.lifetime{
+    font-size:22px ;
+    color: cyan;
+    /* text-align: center; */
+    margin-bottom: 20px;
+}
+.list{
+    font-size: 30px;
+}
+.get{
+    font-size: 30px;
+    margin-left: 25px;
+    margin-top:60px ;
+}
+.bar4main{
+    width: 70%;
+    height: 150px;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.mouth{
+    
+    font-size: 25px;
+    color: darkcyan;
+}
+.exclusive{
+    font-size: 20px;
+}
+.sub{
+width: 150px;
+height: 50px;
+border-radius: 30px;
+font-size: 20px;
+background-color: rgb(8, 157, 220);
+}
+.cards{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+.card{
+    width: 350px;
+    height: 500px;
+    background-color: whitesmoke;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    border-radius: 40px;
+    
+}
+.hizmath{
+    width: 250px;
+    height: 280px;
+    margin-top: 20px;
+    border-radius: 150px;
+}
+.cardtext{
+    color: rgb(8, 51, 98);
+    margin-top: 25px;
+}
+.cardpara{
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+.card2{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: space-around;
+}
+.institution{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(5, 86, 108);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.insti{
+    width: 80px;
+    height: 60px;
+   
+}
+.freq{
+    width: 100%;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.freq1{
+    font-size: 20px;
+    color: rgb(17, 188, 188);
+}
+.freq2{
+    font-size: 15px;
+   
+}
+.common{
+    width: 80%;
+    height: 70px;
+    background-color: rgb(17, 188, 188);
+    /* text-align: center; */
+    color: azure;
+}
+.commonmain{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.commonpara{
+    height: 60px;
+    width: 80%;
+    font-size: 20px;
+}
+.photogallerymain{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(17, 123, 189);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.phimg{
+    width: 120px;
+    height: 70px;
+}
+.photogallery1{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    
+    /* background-color: blue; */
+}
+.usefullinks{
+    font-size: 20px;
+    margin-top: 30px;
+    color: azure;
+}
+.point{
+    margin-top: 10px;
+}
+.copyright{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(17, 188, 188);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.navbarend{
+width: 100%;
+height: 25vh;
+/* background-color: aqua; */
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.aboutbar2{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(33, 159, 232);
+    align-items: center;
+}
+
+.abouttext{
+    width: 50%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about{
+    width: 100%;
+    height: 80px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.aboutsection2{
+    width: 100%;
+    height: 800px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+.aboutsection2img{
+width: 500px;
+height: 600px;
+}
+.value{
+    font-size: 29px;
+    color: rgb(20, 183, 233);
+    margin-top: 20px;
+}
+.underpic{
+    text-align: center;
+    margin-top: -10px;
+    color: rgb(20, 183, 233);
+}
+.mostimp{
+    font-size: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.lifetimer{
+    font-size: 28px;
+    margin-top: 30px;
+    color:rgb(20, 183, 233) ;
+}
+.faculty{
+    font-size: 23px;
+    margin-top: 20px;
+}
+.reliable{
+    padding-top: 40px;
+    font-size: 25px;
+}
+.lists{
+    font-size: 30px;
+    padding-top: 20px;
+}
+.real{
+    font-size: 25px;
+    padding-top: 40px;
+    color:rgb(20, 183, 233) ;
+}
+.realpoints{
+    font-size: 25px;
+}
+.photogallerypara{
+    font-size:15px;
+}
+.sp{
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media  screen and (max-width: 500px) {
+    .maincontainer{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .navbar{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .nav1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.nav2{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+    }
+
+ 
